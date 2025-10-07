@@ -67,6 +67,7 @@
    h2, h3 {
        margin: 0px;
    }
+
 /* portfolio styles */
          .content h1 {
              color: black;
@@ -90,9 +91,8 @@
 
          #portfolio a {
              text-decoration: none;
-             color: #18363d;
+             color: #454545;
          }
 
 
-
-
+   
