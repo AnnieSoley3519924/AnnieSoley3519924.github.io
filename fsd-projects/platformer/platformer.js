@@ -36,16 +36,21 @@ $(function () {
 createPlatform(400, 470, 150, 15);
 createPlatform(700,350,150,15);
 createPlatform(450,250, 150,15);
+createPlatform(250,150,150,15);
 
 
 
     // TODO 3 - Create Collectables
-
+createCollectable("diamond",750, 300);
+createCollectable("steve",650,550);
+createCollectable("kennedi",320,100);
 
 
     
     // TODO 4 - Create Cannons
-
+createCannon("bottom",500,700);
+createCannon("top",200,100);
+createCannon("right",700,100);
 
     
     
